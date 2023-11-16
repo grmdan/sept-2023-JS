@@ -1,0 +1,77 @@
+
+.branches-block-xn-10 {
+    display: flex;
+    width: 1440px;
+   height: 500px;
+    justify-content: center;
+    align-items: center;
+    background: #FEC524;
+}
+
+.vector-block-xn-10 {
+    width: 1158.4px;
+    height: 362px;
+    flex-shrink: 0;
+}
+
+.vector-block-xn-10 h2 {
+    color: #FFF;
+    font-family: Rubik;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 60px; /* 125% */
+}
+
+.vector-block-xn-10 p {
+    color: #0E2F4B;
+    font-family: Open Sans sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px; /* 187.5% */
+    position: relative;
+    bottom: 10px;
+}
+
+.p-xn-10 {
+    color: #0E2F4B;
+    font-family: Rubik sans-serif;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 30px; /* 176.471% */
+    position: relative;
+    bottom: 10px;
+}
+
+.donwload {
+    position: relative;
+    bottom: 35px;
+    right:  125px;
+}
+
+.donwload2 {
+    position: relative;
+    bottom: 35px;
+    right:  200px;
+}
+
+.bold-text-xn-10 {
+    color: #0E2F4B;
+    font-family: Rubik sans-serif;
+    font-size: 19px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 30px; /* 176.471% */
+}
+
+.icon-social-media-xn-10 {
+    position: relative;
+    top: 10px;
+}
+
+.icon-apple-xn-10 {
+    position: relative;
+    right: 80px;
+}
