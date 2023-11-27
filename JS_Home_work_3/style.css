@@ -1,0 +1,45 @@
+
+.product-card {
+    width: 100%;
+    height: 350px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.product-image {
+    height: 150px;
+    width: 100px;
+    border: black;
+}
+
+.userTrue {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    border: 1px;
+    border: 2px dot-dash;
+    border: medium dashed green;
+
+    width: 150px;
+}
+.userTrue1 {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    border: 1px;
+    border: 2px dot-dash;
+    border: medium dashed blue;
+    width: 150px;
+}
+
+.userTrue2 {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    border: 1px;
+    border: 2px dot-dash;
+    border: medium dashed red;
+    width: 150px;
+}
